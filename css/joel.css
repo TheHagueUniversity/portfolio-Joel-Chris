@@ -1,0 +1,13 @@
+/* styling for navigation*/
+
+.navbar-brand{
+	font-weight: 800;
+}
+
+#content{
+	margin-top: 150px;
+}
+
+.display-2{
+	font-family: 'Poppins', sans-serif;
+}

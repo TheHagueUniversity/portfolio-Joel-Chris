@@ -11,3 +11,15 @@
 .display-2{
 	font-family: 'Poppins', sans-serif;
 }
+
+.white-text{
+	color: #000 !important;
+}
+
+.project-body{
+	background-color: #fff;
+	color: #000 !important;
+}
+.nav-link-black:hover{
+	border-color: blue !important;
+}

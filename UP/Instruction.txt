@@ -1,0 +1,2 @@
+1. Open index.html in Chrome browser
+2. Use your mouse and scroll through the page
